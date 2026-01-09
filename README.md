@@ -7,26 +7,12 @@ I build intelligent systems that turn **data into decisions** and **models into 
 
 If a problem looks interesting,  chances are I’ll **model it, train it, and deploy it**.
 
----
-
 ### 🤝 Let’s connect
 - 📧 **Email:** [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souptikdolui@gmail.com) 
 - 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souptik-dolui)
 - 📄 Resume: [Resume](https://drive.google.com/file/d/14uVDgxqQBpcOUe5QbGt7sYLRAQMtuy8S/view?usp=sharing)
 
 ✨ Always open to **collaborations, research, and cool AI ideas**.
-
----
-
-### Internships
-- **AI/ML Intern @ CSRBOX (IBM SkillsBuild)**
-- **Applied Scientist Intern @ CSRBOX (IBM SkillsBuild)**
-  
-### Education 🎓
-- **Masters in AI & Data Science** — KIIT
-- **Bachelor in Computer Science Engineering** — UEM Kolkata
-
----
 
 ### 🧠 What I work with
 My main tech stack revolves around:
@@ -42,13 +28,9 @@ My favorite tools:
 
 I’ve built **many public repos**, and honestly…the private experiments probably outnumber them 😄
 
----
-
 ### 🏆 Highlights
 - **RISC 2025** – *IIT Bombay*
 - **Smart Society Study Abroad Program** — *NUS Singapore*
-
----
 
 ### 🎯 Fun Facts
 - ☕ Hot Chocolate >>> Coffee or Tea
