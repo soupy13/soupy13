@@ -25,7 +25,7 @@ My favorite tools:
 
 I’ve built **many public repos**, and honestly…the private experiments probably outnumber them 😄
 
-### 🏆 Highlights
+### 🏆 Achievements
 - **RISC 2025** – *IIT Bombay*
 - **Smart Society Study Abroad Program** — *NUS Singapore*
 
